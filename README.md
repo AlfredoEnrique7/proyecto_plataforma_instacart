@@ -37,5 +37,5 @@ El objetivo de la fase inicial es realizar una auditoría técnica y diagnóstic
 * Jupyter Notebook
 
 ## Ver el análisis completo
-👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_plataforma_zuber.ipynb)
+👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_plataforma_instacart.ipynb)
 
